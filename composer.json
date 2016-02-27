@@ -1,5 +1,5 @@
 {
-    "name": "cwbit/cakephp-visibilty",
+    "name": "cwbit/cakephp-visibility",
     "description": "CakePHP3 plugin that enables records to be hidden or shown",
     "type": "cakephp-plugin",
     "require": {
