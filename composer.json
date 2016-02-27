@@ -1,0 +1,22 @@
+{
+    "name": "cwbit/cakephp-visibilty",
+    "description": "CakePHP3 plugin that enables records to be hidden or shown",
+    "type": "cakephp-plugin",
+    "require": {
+        "php": ">=5.4.16",
+        "cakephp/cakephp": "~3.0",
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Visibility\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Visibility\\Test\\": "tests"
+        }
+    }
+}
