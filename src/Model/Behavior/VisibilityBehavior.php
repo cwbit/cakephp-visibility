@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Model\Behavior;
+namespace Visibility\Model\Behavior;
 
 use Cake\ORM\Behavior; 				# parent class
 use Cake\ORM\Query;					# Query class needed for findXYZ ops
